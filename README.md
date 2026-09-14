@@ -3,8 +3,6 @@
 I'm Kishore Kumar
 𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
 
-Profile Views
-
 🌱 I’m currently learning Data Analytics & Business Intelligence!
 
 ✅ 𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀

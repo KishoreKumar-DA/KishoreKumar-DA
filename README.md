@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-Hi there 👋, I'm Purva Phalak
+Hi there 👋, I'm Kishore Kumar
 𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
 
 Profile Views
@@ -18,32 +18,20 @@ Profile Views
 
 🏅 𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸 𝗦𝗤𝗟 𝟱 𝗦𝘁𝗮𝗿 𝗚𝗼𝗹𝗱 𝗕𝗮𝗱𝗴𝗲
 
-👨‍💻 All of my projects are available at - https://purvaphalak.github.io/purvaphalak.io/
-
-⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 - I started my career as a civil engineer, but now I’m building insights instead of buildings. I used to design structures, now I design dashboards! 🏗➡📊 From concrete calculations to data crunching! Who knew numbers could be fun in both fields? 😄 Welcome to my data analytics journey! 🚀
+👨‍💻 All of my projects are available at - https://github.com/KishoreKumar-DA
 
 💬 Ask me about Data Analytics & Buisness Analytics
 
-📫 How to reach me: purvaphalak@gmail.com
+📫 How to reach me: kishorekumar.vkk8@gmail.com
 
 Languages and Tools:
 Excel MySQL Python Power BI
 
 Connect with me:
-LinkedIn - https://www.linkedin.com/in/purva-phalak/
+LinkedIn - https://www.linkedin.com/in/kishore-kumar-in/
 
-HackerRank - https://www.hackerrank.com/profile/purvaphalak
+HackerRank - https://www.hackerrank.com/profile/kkpmail088
 
-GitHub- https://github.com/purvaphalak
+GitHub- https://github.com/KishoreKumar-DA
 
--->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

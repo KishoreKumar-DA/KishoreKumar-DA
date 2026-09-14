@@ -15,8 +15,6 @@ I'm Kishore Kumar
 
 💬 Ask me about Data Analytics & Buisness Analytics
 
-📫 How to reach me: kishorekumar.vkk8@gmail.com
-
 Languages and Tools:
 Excel MySQL Python Power BI
 

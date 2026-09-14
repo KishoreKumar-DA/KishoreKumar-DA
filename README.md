@@ -77,6 +77,7 @@ Cleaned and transformed messy transactional data before building the Power BI da
 ## 🏅 Achievements
 
 🏅 **HackerRank SQL 5-Star Gold Badge**
+
 🏅 **Deloitte Data Analytics Job Simulation | Forage**
 
 ---

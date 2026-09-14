@@ -23,10 +23,10 @@ Excel MySQL Python Power BI
 **Connect with me:**
 
 
-<img width="227" height="148" alt="image" src="https://github.com/user-attachments/assets/b10a680a-6f94-4f24-9715-12564a28f92a" /> - https://www.linkedin.com/in/kishore-kumar-in/
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b10a680a-6f94-4f24-9715-12564a28f92a" /> - https://www.linkedin.com/in/kishore-kumar-in/
 
-<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/25c5263c-8a21-4fe7-9a74-b47c31181944" /> - https://www.hackerrank.com/profile/kkpmail088
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/25c5263c-8a21-4fe7-9a74-b47c31181944" /> - https://www.hackerrank.com/profile/kkpmail088
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b17c4431-c66b-4162-98af-0e7220aa6bfd" />  https://github.com/KishoreKumar-DA
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b17c4431-c66b-4162-98af-0e7220aa6bfd" />  https://github.com/KishoreKumar-DA
 
 -->

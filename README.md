@@ -77,6 +77,7 @@ Cleaned and transformed messy transactional data before building the Power BI da
 ## 🏅 Achievements
 
 🏅 **HackerRank SQL 5-Star Gold Badge**
+🏅 **Deloitte Data Analytics Job Simulation | Forage**
 
 ---
 
@@ -102,8 +103,8 @@ I’m particularly interested in roles where I can use data to solve business pr
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** Kishore Kumar
+💼 **LinkedIn:** https://www.linkedin.com/in/kishore-kumar-in/
 
-💻 **GitHub:** KishoreKumar-DA
+💻 **GitHub:** https://github.com/KishoreKumar-DA
 
-🏅 **HackerRank:** kkpmail088
+🏅 **HackerRank:** https://www.hackerrank.com/profile/kkpmail088

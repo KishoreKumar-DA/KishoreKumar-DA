@@ -13,10 +13,6 @@ I'm Kishore Kumar
 
 👨‍💻 All of my projects are available at - https://github.com/KishoreKumar-DA
 
-💬 Ask me about Data Analytics & Buisness Analytics
-
-Languages and Tools:
-Excel MySQL Python Power BI
 
 **Connect with me:**
 

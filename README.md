@@ -2,7 +2,7 @@
 
 ## I'm Kishore Kumar
 
-**Aspiring Data Analyst | Power BI | SQL | Excel | Python**
+**Aspiring Data Analyst | Power BI | SQL | Advanced Excel | Python**
 
 I’m a data analytics professional focused on transforming business data into actionable insights through data cleaning, analysis, visualization, and business reporting.
 

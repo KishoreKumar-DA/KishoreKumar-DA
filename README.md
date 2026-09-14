@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-**KishoreKumar-DA/KishoreKumar-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Hi there 👋, I'm Kishore Kumar
+I'm Kishore Kumar
 𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
 
 Profile Views
